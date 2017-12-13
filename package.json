@@ -1,0 +1,15 @@
+{
+  "name": "mrcthms-syntax-2017",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A personal Atom theme for Marc Thomas",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/mrcthms-syntax-2017",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
